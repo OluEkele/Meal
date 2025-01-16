@@ -1,0 +1,88 @@
+const countries = [
+  {
+    id: 1,
+    name: 'Germany',
+    continent: "Europe",
+    flag: "https://flagsapi.com/DE/flat/64.png",
+    name_code: "GE",
+  },
+  {
+    id: 2,
+    name: 'United States',
+    continent: "America",
+    flag: "https://flagsapi.com/US/flat/64.png",
+    name_code: "Us",
+  },
+  {
+    id: 3,
+    name: 'Nigeria',
+    continent: "Africa",
+    flag: "https://flagsapi.com/NG/flat/64.png",
+    name_code: "NG",
+  },
+  {
+    id: 4,
+    name: 'China',
+    continent: "Asia",
+    flag: "https://flagsapi.com/CN/flat/64.png",
+    name_code: "CN",
+  },
+  {
+    id: 5,
+    name: 'France',
+    continent: "Europe",
+    flag: "https://flagsapi.com/FR/flat/64.png",
+    name_code: "FR",
+  },
+  {
+    id: 6,
+    name: 'Canada',
+    continent: "America",
+    flag: "https://flagsapi.com/CA/flat/64.png",
+    name_code: "CA",
+  },
+  {
+    id: 7,
+    name: 'South Africa',
+    continent: "Africa",
+    flag: "https://flagsapi.com/ZA/flat/64.png",
+    name_code: "ZA",
+  },
+  {
+    id: 10,
+    name: 'Japan',
+    continent: "Asia",
+    flag: "https://flagsapi.com/JP/flat/64.png",
+    name_code: "JP",
+  },
+  {
+    id: 9,
+    name: 'United Kingdom',
+    continent: "Europe",
+    flag: "https://flagsapi.com/GB/flat/64.png",
+    name_code: "UK",
+  },
+  {
+    id: 10,
+    name: 'Brazil',
+    continent: "America",
+    flag: "https://flagsapi.com/BR/flat/64.png",
+    name_code: "BR",
+  },
+  {
+    id: 11,
+    name: 'Ghana',
+    continent: "Africa",
+    flag: "https://flagsapi.com/GH/flat/64.png",
+    name_code: "GN",
+  },
+  {
+    id: 12,
+    name: 'Russia',
+    continent: "Asia",
+    flag: "https://flagsapi.com/RU/flat/64.png",
+    name_code: "RU",
+  },
+]
+
+export default countries;
